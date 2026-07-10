@@ -1,0 +1,24 @@
+{
+  "name": "avaliacaobackend",
+  "version": "1.0.0",
+  "description": "mytext",
+  "homepage": "https://github.com/viertelthiago-cmd/AvaliacaoBackend#readme",
+  "bugs": {
+    "url": "https://github.com/viertelthiago-cmd/AvaliacaoBackend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viertelthiago-cmd/AvaliacaoBackend.git"
+  },
+  "license": "ISC",
+  "author": "Thiago",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+     "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
